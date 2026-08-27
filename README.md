@@ -1,6 +1,6 @@
 # Hi, I'm Gauri Thaliyil 👋
 
-🎓 Junior at the **University of Washington**, studying Applied & Computational Mathematical Sciences (Discrete Math & Algorithms track)
+🎓 Senior at the **University of Washington**, studying Applied & Computational Mathematical Sciences (Discrete Math & Algorithms track)
 🧮 Numerical methods researcher | 🤖 RAG/LLM application builder | 📈 Aspiring AI/Software engineer
 
 I build AI/ML systems grounded in applied math — from retrieval-augmented knowledge assistants to numerical solvers for image reconstruction. Currently looking for opportunities to keep applying my math background to AI/ML development.
@@ -27,7 +27,7 @@ I build AI/ML systems grounded in applied math — from retrieval-augmented know
 
 ### 💼 Experience highlights
 
-- **Integral Ad Science** — Software Engineer Intern (Data Enablement), Summer 2025
+- **Integral Ad Science** — Software Engineer Intern (Data Enablement), Summer 2026
   Built a RAG-based knowledge assistant that reduced ~4-hour average response times for a high-traffic internal support channel
 - **UW Math Department** — General Research Assistant, 2025–present
   Numerical methods for inverse problems and image reconstruction under a PhD student's guidance
@@ -48,4 +48,4 @@ Kappa Delta Sorority · UW ACMS Student Council · UW Actuarial Science Club (Pa
 
 ---
 
-⭐ Thanks for stopping by — always happy to connect about applied math, AI/ML, or actuarial science!
+⭐ Thanks for stopping by — always happy to connect about applied math, AI/ML, or software engineering!

@@ -28,7 +28,7 @@ I build AI/ML systems grounded in applied math — from retrieval-augmented know
 ### 💼 Experience highlights
 
 - **Integral Ad Science** — Software Engineer Intern (Data Enablement), Summer 2026
-  Built a RAG-based knowledge assistant that reduced ~4-hour average response times for a high-traffic internal support channel
+  Engineered an AI knowledge assistant handling 200+ weekly queries, cutting response times from over an hour to seconds
 - **UW Math Department** — General Research Assistant, 2025–present
   Numerical methods for inverse problems and image reconstruction under a PhD student's guidance
 - **UW Math Study Center** — Calculus & Linear Algebra Tutor, 2024–present

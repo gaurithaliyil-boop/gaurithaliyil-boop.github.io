@@ -1,11 +1,11 @@
 # Hi, I'm Gauri Thaliyil 👋
 
 🎓 Junior at the **University of Washington**, studying Applied & Computational Mathematical Sciences (Discrete Math & Algorithms track)
-🧮 Numerical methods researcher | 🤖 RAG/LLM application builder | 📈 Aspiring actuary/quant
+🧮 Numerical methods researcher | 🤖 RAG/LLM application builder | 📈 Aspiring AI/Software engineer
 
 I build AI/ML systems grounded in applied math — from retrieval-augmented knowledge assistants to numerical solvers for image reconstruction. Currently looking for opportunities to keep applying my math background to AI/ML development.
 
-🔗 **[Visit my personal site](https://gaurithaliyil-boop.github.io)**
+🔗 **[Visit my personal site](https://gaurithaliyil-boop.github.io)** · 📂 **[Browse my repos](https://github.com/gaurithaliyil-boop?tab=repositories)**
 
 ---
 

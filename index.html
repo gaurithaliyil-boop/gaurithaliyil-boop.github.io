@@ -227,9 +227,17 @@
     font-size:1.08rem;
   }
   .research-card p{
-    margin:0;
+    margin:0 0 10px 0;
     font-size:.93rem;
     color:var(--ink-soft);
+  }
+  .research-card a{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:.82rem;
+    text-decoration:none;
+    color:var(--accent);
+    border-bottom:1px solid var(--accent);
+    padding-bottom:1px;
   }
 
   .skills-grid{
@@ -332,7 +340,7 @@
     <div class="nav-links">
       <a href="#about"><span class="tag">01</span> about</a>
       <a href="#experience"><span class="tag">02</span> experience</a>
-      <a href="#research"><span class="tag">03</span> research</a>
+      <a href="#research"><span class="tag">03</span> projects</a>
       <a href="#skills"><span class="tag">04</span> skills</a>
       <a href="#involvement"><span class="tag">05</span> involvement</a>
       <a href="#contact"><span class="tag">06</span> contact</a>
@@ -353,8 +361,9 @@
       </p>
       <div class="hero-links">
         <a href="mailto:gauri.thaliyil@gmail.com">email</a>
+        <a href="https://github.com/gaurithaliyil-boop?tab=repositories" target="_blank" rel="noopener">github repos ↗</a>
         <a href="#experience">experience ↓</a>
-        <a href="#research">research ↓</a>
+        <a href="#research">projects ↓</a>
       </div>
     </section>
 
@@ -404,11 +413,24 @@
     </section>
 
     <section id="research">
-      <h2>Research &amp; projects</h2>
+      <h2>Projects</h2>
 
       <div class="research-card">
-        <h3>Numerical methods for image reconstruction</h3>
-        <p>Ongoing work analyzing iterative solvers for inverse problems, including neural priors used as regularizers. Focus areas include reconstruction accuracy across regularization schemes and building regression-test infrastructure to keep solver behavior verifiable as methods evolve.</p>
+        <h3>Vocalytics</h3>
+        <p>A real-time audio transcription and analysis app built on Amazon Bedrock and Claude 3.5, with engineering focus on latency, cost, and accuracy across the data pipeline.</p>
+        <a href="https://github.com/gaurithaliyil-boop/vocalytics" target="_blank" rel="noopener">View repo ↗</a>
+      </div>
+
+      <div class="research-card">
+        <h3>WallStreetBets Market Correlation Analysis</h3>
+        <p>An analysis project examining correlations between WallStreetBets sentiment/activity and market movement.</p>
+        <a href="https://github.com/gaurithaliyil-boop/wallstreetbets-market-correlation" target="_blank" rel="noopener">View repo ↗</a>
+      </div>
+
+      <div class="research-card">
+        <h3>My First Agent</h3>
+        <p>A personal project exploring AI agent design and implementation.</p>
+        <a href="https://github.com/gaurithaliyil-boop/myfirstagent" target="_blank" rel="noopener">View repo ↗</a>
       </div>
 
       <div class="research-card">
@@ -466,6 +488,10 @@
         <div>
           <span>Location</span>
           Seattle, WA
+        </div>
+        <div>
+          <span>GitHub</span>
+          <a href="https://github.com/gaurithaliyil-boop?tab=repositories" target="_blank" rel="noopener">gaurithaliyil-boop</a>
         </div>
       </div>
     </section>
